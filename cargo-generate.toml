@@ -1,0 +1,2 @@
+[template]
+ignore = ["cliff.toml", "README.md", "cargo-generate.toml"]
